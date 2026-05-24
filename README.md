@@ -110,7 +110,7 @@ Dashboard components:
 
 ### Revenue & KPI Dashboard
 
-> 📷 *Add your Power BI dashboard screenshot here*
+> ![Dashboard Preview](images/Daschboard_Sales_Analysis.png)
 
 ---
 
